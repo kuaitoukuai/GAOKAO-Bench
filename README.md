@@ -1,6 +1,8 @@
 “二八理论”
 
 只保留高考题中的单选题，强制只输出json格式，快速测评AI性能。
+![947bb8659b61940248bac309aae3915](https://github.com/user-attachments/assets/bd2b5ed8-0ccf-4923-acd2-d3a5c9e5c0d1)
+
 
 测评成绩汇总
 ![1731895079254](https://github.com/user-attachments/assets/7c2cd57e-59bd-4ffe-8abb-12d6e93aecf7)
